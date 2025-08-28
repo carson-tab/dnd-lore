@@ -5,4 +5,4 @@ A collection of lore for our DnD campaigns.  There is a lot going on in this wor
 This project is intended to be opened by [Obsidian](https://help.obsidian.md/install).
 
 
-![[graph.png]]
+![](graph.png)
