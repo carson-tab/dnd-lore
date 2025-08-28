@@ -1,7 +1,7 @@
 ---
 tags:
-  - diety
   - red-knight
+  - deity
 faction: "[[Covenant of the Red Knight]]"
 aliases:
   - Crimson General

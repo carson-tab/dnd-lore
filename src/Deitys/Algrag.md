@@ -1,6 +1,6 @@
 ---
 tags:
-  - diety
   - demon
+  - deity
 ---
-Binds followers with a magical ring.
+Binds followers with a [[malachite ring of Algrag]].

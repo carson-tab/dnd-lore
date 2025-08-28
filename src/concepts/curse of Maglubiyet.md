@@ -1,6 +1,8 @@
 ---
 tags:
   - concept
+aliases:
+  - blessing of Maglubiyet
 ---
 ###### Background
 [[Maglubiyet]] god of the [[goblin|goblins]] has long believed that money and gold were obstacles to the cohesion of [[goblin]] society.  As such all followers of [[Maglubiyet]] feel a deep discomfort for gold. This discomfort is so strong, it can become painful if a follower so much as touches gold.  [[goblin]] society, accepting this directive from their god, built large underground vaults and placed all their gold inside.  Knowing that these vaults full of gold would be a tempting target for those who do not worship [[Maglubiyet]], [[goblin]] shamans placed a curse upon the gold, the [[curse of Maglubiyet]].
