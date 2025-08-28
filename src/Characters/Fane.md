@@ -1,8 +1,9 @@
 ---
 tags:
   - character
-race: human
+race: "[[human]]"
 status: dead
+faction: "[[Sleepy Slavers]]"
 ---
 A member of [[The Astonishing Resoluition]] and once one of the chosen among [[Sleepy Slavers]].
 He has a long standing grudge against the [[Covenant of the Red Knight]] due to an attack on his mission in [[Totally Not Japan]]. He is bound by a magic ring to serve [[Algrag]].

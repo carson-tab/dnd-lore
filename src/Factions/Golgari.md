@@ -1,4 +1,5 @@
 ---
 tags:
   - faction
+faction: "[[Golgari]]"
 ---

@@ -1,7 +1,8 @@
 ---
 tags:
   - character
-race: human
+race: "[[human]]"
+faction: "[[Covenant of the Red Knight]]"
 ---
 Leader of [[The Astonishing Resoluition]]. 
 Secretly bound to [[Algrag]] by a magic ring.

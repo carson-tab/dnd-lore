@@ -1,0 +1,5 @@
+---
+tags:
+  - diety
+race: "[[goblin]]"
+---
