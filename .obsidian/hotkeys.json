@@ -7,5 +7,14 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-git:create-branch": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }
