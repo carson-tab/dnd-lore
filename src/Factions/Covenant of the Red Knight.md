@@ -5,6 +5,7 @@ faction: "[[Covenant of the Red Knight]]"
 aliases:
   - Red Army
   - Red Knight's Army
+  - Red Knights
 ---
  After surviving attacks by Demons and [[Golgari]], many great warriors established a new world government with hopes of uniting all the world's humanoids. Many regions have sent representatives to the seat of government in [[Foedopolis]]. The Government in [[Foedopolis]] has brought common alliance and common law to the land. No longer will the people of The [[Covenant of the Red Knight]] live in fear of war.
 
